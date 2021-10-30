@@ -1,0 +1,249 @@
+{
+    "tables": [
+      {
+        "number": 1,
+        "minNumberOfSeats": 6,
+        "maxNumberOfSeats": 10
+      },
+      {
+        "number": 2,
+        "minNumberOfSeats": 4,
+        "maxNumberOfSeats": 5
+      },
+      {
+        "number": 3,
+        "minNumberOfSeats": 6,
+        "maxNumberOfSeats": 8
+      },
+      {
+        "number": 4,
+        "minNumberOfSeats": 4,
+        "maxNumberOfSeats": 6
+      },
+      {
+        "number": 5,
+        "minNumberOfSeats": 3,
+        "maxNumberOfSeats": 4
+      },
+      {
+        "number": 6,
+        "minNumberOfSeats": 4,
+        "maxNumberOfSeats": 5
+      },
+      {
+        "number": 6,
+        "minNumberOfSeats": 4,
+        "maxNumberOfSeats": 5
+      },
+      {
+        "number": 7,
+        "minNumberOfSeats": 3,
+        "maxNumberOfSeats": 4
+      },
+      {
+        "number": 8,
+        "minNumberOfSeats": 3,
+        "maxNumberOfSeats": 4
+      },
+      {
+        "number": 9,
+        "minNumberOfSeats": 3,
+        "maxNumberOfSeats": 4
+      },
+      {
+        "number": 10,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 3
+      },
+      {
+        "number": 11,
+        "minNumberOfSeats": 3,
+        "maxNumberOfSeats": 4
+      },
+      {
+        "number": 12,
+        "minNumberOfSeats": 4,
+        "maxNumberOfSeats": 5
+      },
+      {
+        "number": 13,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 3
+      },
+      {
+        "number": 14,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 15,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 16,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 17,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 18,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 3
+      },
+      {
+        "number": 19,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 20,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 3
+      },
+      {
+        "number": 22,
+        "minNumberOfSeats": 3,
+        "maxNumberOfSeats": 4
+      },
+      {
+        "number": 23,
+        "minNumberOfSeats": 3,
+        "maxNumberOfSeats": 4
+      },
+      {
+        "number": 24,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 3
+      },
+      {
+        "number": 25,
+        "minNumberOfSeats": 6,
+        "maxNumberOfSeats": 8
+      },
+      {
+        "number": 26,
+        "minNumberOfSeats": 4,
+        "maxNumberOfSeats": 6
+      },
+      {
+        "number": 27,
+        "minNumberOfSeats": 3,
+        "maxNumberOfSeats": 4
+      },
+      {
+        "number": 28,
+        "minNumberOfSeats": 4,
+        "maxNumberOfSeats": 6
+      },
+      {
+        "number": 29,
+        "minNumberOfSeats": 4,
+        "maxNumberOfSeats": 6
+      },
+      {
+        "number": 30,
+        "minNumberOfSeats": 3,
+        "maxNumberOfSeats": 4
+      },
+      {
+        "number": 31,
+        "minNumberOfSeats": 3,
+        "maxNumberOfSeats": 4
+      },
+      {
+        "number": 32,
+        "minNumberOfSeats": 3,
+        "maxNumberOfSeats": 4
+      },
+      {
+        "number": 33,
+        "minNumberOfSeats": 3,
+        "maxNumberOfSeats": 4
+      },
+      {
+        "number": 34,
+        "minNumberOfSeats": 4,
+        "maxNumberOfSeats": 6
+      },
+      {
+        "number": 35,
+        "minNumberOfSeats": 4,
+        "maxNumberOfSeats": 6
+      },
+      {
+        "number": 36,
+        "minNumberOfSeats": 6,
+        "maxNumberOfSeats": 8
+      },
+      {
+        "number": 41,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 42,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 43,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 44,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 45,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 46,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 47,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 48,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 49,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 50,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 51,
+        "minNumberOfSeats": 2,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 52,
+        "minNumberOfSeats": 1,
+        "maxNumberOfSeats": 2
+      },
+      {
+        "number": 53,
+        "minNumberOfSeats": 1,
+        "maxNumberOfSeats": 2
+      }
+    ]
+  }
